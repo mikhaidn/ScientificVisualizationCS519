@@ -5,6 +5,7 @@ This repository is meant to reflect the work done by me (mikhaidn) for this Fall
 Visualization techniques useful in analysis of engineering and scientific data. Physical models; methods of computational science; two- and three-dimensional data types; visual representation schemes for scalar, vector, and tensor data; isosurface and volume visualization methods; visual monitoring; interactive steering. 
 ## Notable Links
 Links that are relavent to the course
+* [_coursera](https://www.coursera.org/learn/cs-519/home/welcome)
 * [Example Syllabus](https://courses.engr.illinois.edu/cs519/fa2017/)
 * [Personal Course GitHub](https://github.com/mikhaidn/ScientificVisualizationCS519)
 ## Notable Repos
